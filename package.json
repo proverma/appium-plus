@@ -1,8 +1,8 @@
 {
   "name": "appium-plus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Lillian Wang",
-  "description": "Add more useful helper methods to Appium",
+  "description": "More useful helper methods to Appium",
   "repository": {
     "type": "git",
     "url": "https://github.com/chenchaoyi/appium-plus"
