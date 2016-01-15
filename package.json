@@ -1,6 +1,6 @@
 {
   "name": "appium-plus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Lillian Wang",
   "description": "More useful helper methods to Appium",
   "repository": {
@@ -21,8 +21,7 @@
   "dependencies": {
     "lodash": "^4.0.0",
     "q": "^1.4.1",
-    "wd": "^0.4.0",
-    "yargs": "^3.31.0"
+    "wd": "^0.4.0"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha test/"
