@@ -5,6 +5,16 @@
 
 `Appium-plus` is a library that addes more helpful methods to Appium.
 
+Quick example: instead of 
+```
+- find an element by some selector
+- write your own logic to wait for it to be available
+- click on it
+```
+you can just call `clickEl()` with Appium-plus.
+
+This is still under construction, more are coming.
+
 ---
 
 ## License
